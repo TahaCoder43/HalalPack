@@ -1,41 +1,21 @@
 # Things to do 
 
-- remove the bell somehow
-- Change the warden's chest to remove the souls,
-- make the wither halal ig
-- Change soul sand texture
+- make the wither halal 
+- remove the bell somehow (I am in doubt regarding this one, perhaps we could just remove the sound)
 - Rename hoglin to beeflin
-- retexture the pig to mini cow
-- retexture pork to mini beef but healthy 
+- replace pig sounds
+- rename music disk to nasheed disk
+- replace the music in music disks with nasheeds
 
-# How?
-
-As for the warden, there is a seperate texture for itself, and blue parts of it which glow. I think you have to modify the glow parts to remove the souls(remember to check this)
+## How to do (some of these things)?
 
 As for the wither, rename soulsand -> radioactive sand. Thus it powers up the wither. But what about him coming to life????? Make lore that when you kill the wither skeleton, sometimes it dies but sometimes only it's head (wither skull) survives, and it can live with only it's head, thus wither skull are alive, they just don't have energy (cause we fought them, and destroyed them). So when they are connected with radioactive sand they get energy, but since it's three skulls (and radioactive sand gives lots of energy), they fuse to make one powerful being. This would also solve the soul speed problem as we can renamed it to radioactive speed
 
 # Question
 
-- Do we change bad-omen's name to revenge
-
-- what do we do about this, do we change it
-```
-"advancements.nether.all_potions.title": "A Furious Cocktail",
-```
-- Do you guys think this is enough
-```
-"advancements.adventure.totem_of_undying.description": "Use a Clutch to clutch death",
-```
 - Do we rename brewing stand and witch (I personally disagree here)
 - Do we remove potion bubly effect
 - Do we have to remove the letters and the floating book
-- Do we remove the texture of totem of undying (I think yes definetly it's an idol of a villager)
-
-# Check what I did lol, it was prevoiusly "postmortal"
-
-```
-"advancements.adventure.totem_of_undying.title": "What a clutch!",
-```
 
 # Things done
 
@@ -50,6 +30,15 @@ As for the wither, rename soulsand -> radioactive sand. Thus it powers up the wi
 - Renamed Fortune to Yeild
 - Changed bad-omen name to enmity, trail omen to trail alert, and raid omen to raid alert
 
+## Things done, but not tested
+
+- Changed soul sand texture
+- Change the warden's chest to remove the souls,
+- Retextured pig to cow
+- Retextured porkchop to beef and cooked variants too
+- renamed pig and pork, to cow and beef, including the cooked variants
+- Renamed zoglin to zeeflin
+
 # Things I could not do
 
 - Change Nbt data Enchantments (upgrades will still be stored as enchantments inside gamecode)
@@ -63,7 +52,3 @@ I think the floating book's model can be changed maybe idk
 I think we can create a mod, to solve the rest of these problems
 
 so a texture pack for someone who is ok with these problems, but a mod, for someone who may use commands and nbt data, and needs to remove the word enchantment
-
-## Things to do with command
-
-change cooked porkchop to cooked beef
