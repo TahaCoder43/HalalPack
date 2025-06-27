@@ -17,7 +17,6 @@ Heaps of hits on YouTube!
 Indev!
 Spiders everywhere!
 Check it out!
-Holy cow, man!
 It's a game!
 Made in Sweden!
 Uses LWJGL!
@@ -93,9 +92,7 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Music by C418!
 Livestreamed!
-Haunted!
 Polynomial!
 Terrestrial!
 All is full of love!
@@ -109,7 +106,6 @@ Not linear!
 Han shot first!
 Nice to meet you!
 Buckets of lava!
-Ride the pig!
 Larger than Earth!
 sqrt(-1) love you!
 Phobos anomaly!
@@ -176,7 +172,6 @@ Very fun!
 Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
-Omnipotent!
 Gasp!
 ...!
 Bees, bees, bees, bees!
@@ -194,7 +189,6 @@ Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
 Scary!
-Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
 Joel is neat!
@@ -280,7 +274,6 @@ Helo Cymru!
 Cześć Polsko!
 你好中国！
 Γεια σου Ελλάδα!
-My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Who put it there?
@@ -395,7 +388,6 @@ Everybody do the Leif!
 Bushy eyebrows!
 Edit is a name!
 From free range developers!
-Music by Lena Raine!
 Aww man!
 #minecraftfarms
 And my pickaxe!
@@ -431,12 +423,11 @@ Croak team!
 Nooooooooooooo!
 Flower forest TM perfume
 Hat Fridays!
-Technoblade never dies!
 You are valid!
 I'm glad you're here!
 You are welcome here!
-Your gender is valid!
-Contains infinite genders!
+Only male and female are valid!
+Contains two genders!
 Made with lave!
 This sand is sus
 Remember to brush your... ...teeth
@@ -444,3 +435,6 @@ Has working bookshelves!
 Sniff sniff...
 Place hanging sign here
 Joule is neat too!
+Don't forget your salah!
+Be nice to your mom :)
+Are you wasting time -_-
