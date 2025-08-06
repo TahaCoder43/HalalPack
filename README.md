@@ -8,18 +8,18 @@ This texture pack removes problematic stuff from minecraft.
 
 ## How to install it
 
-So once you download the .zip of this project, unzip it, you will get some files and a folder named HalalPack which has pack.mcmeta file inside it, the folder is the texture pack. Now that you know which folder is the texture pack, do the following
+So once you download the .zip of this project, unzip it, you will get some files and a folder named HalalPack which has pack.mcmeta file inside it, this folder is the texture pack. Now that you know which folder is the texture pack, do the following
 
 1. Open minecraft
 2. click Options in the main menu
 3. click resourcepacks 
 4. click open pack folder, this will open pack folder in file explorer (it is a folder name resourcepacks)
 5. drag the HalalPack folder (the one with pack.mcmeta inside it) to the pack folder
-6. now you will see the halalpack folder in the minecraft resourcepack menu (if you don't, close the resource pack menu and reopen it)
+6. now you will see the halalpack folder in the minecraft resourcepack menu (if you don't, close the resource pack menu and reopen it). You can click on the HalalPack texture pack to add it to the list of selected texture packs
 7. If you see that it is not supported, then go back pack folder in file explorer, and open the HalalPack folder.
 8. open pack.mcmeta in notepad (or any text editor)
-9. you will find `"pack_format": 34,` change it to the pack format of your minecraft version
-10. to find the pack format of your version go [here](https://minecraft.wiki/w/Template:Resource_pack_format), and you will see a table with value, versions, releases. check which release corrosponds to the version your on, and see it's value
+9. you will find `"pack_format": 34,` change it to the pack format of your minecraft version (don't remove the coma after the number)
+10. to find the pack format of your version go [here](https://minecraft.wiki/w/Template:Resource_pack_format), and you will see a table with value, versions, releases. check which release corrosponds to the version your on, and see it's value.
 
 ## What this texture pack does
 
