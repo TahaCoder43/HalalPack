@@ -8,7 +8,7 @@ This texture pack removes problematic stuff from minecraft.
 
 ## How to install it
 
-So once you download the .zip of this project, unzip it, you will get some files and a folder named HalalPack which has pack.mcmeta file inside it, this folder is the texture pack. Now that you know which folder is the texture pack, do the following
+Download the .zip of this project from https://github.com/TahaCoder43/HalalPack/archive/refs/heads/main.zip, unzip it, you will get some files and a folder named HalalPack which has pack.mcmeta file inside it, this folder is the texture pack. Now that you know which folder is the texture pack, do the following
 
 1. Open minecraft
 2. click Options in the main menu
